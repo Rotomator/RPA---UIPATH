@@ -1,0 +1,14 @@
+{
+  "name": "Advance Training 2 (State Machine)",
+  "description": "Project",
+  "main": "C:\\Users\\malarvizhi.k\\Desktop\\Advance Training 2 (State Machine)\\State Machine 4.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "17.1.6522.14204",
+  "projectVersion": "1.0.6634.33584",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
